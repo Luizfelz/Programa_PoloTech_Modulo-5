@@ -4,6 +4,8 @@ Neste repositório está contido o material apresentado em aula, assim como toda
 
 O conteúdo da pasta **datasets** é referente aos arquivos de datasets passados pelo professor durante as aulas e que foram usados em aulas específicas e exercícios.
 
+O conteúdo da pasta **projeto_final** é referente aos arquivos (datasets, artigo, etc) do projeto final requisitado pelo professor. O arquivo _cortez2009.pdf_ é um artigo baseado no dataset escolhido para a realização do projeto final. O arquivo _winequality.names_ contém informações referentes aos datasets e ao artigo criado a partir dele.
+
 Os conteúdos abordados nas **aulas** são:
 
 - Aula 0: Introdução ao Módulo 5, Data Science, Inteligência Artificial, Machine Learning e Deep Learning;
