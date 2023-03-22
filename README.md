@@ -13,3 +13,7 @@ Os conteúdos abordados nas **aulas** são:
 - Aula 2: Aprendizagem Supervisionada, LeituraLeitura e Tratamento de dados de um dataset, _Targets_ e _Features_, Matriz Confusão, Exercício proposto;
 - Aula 3.1: Resolução do Exercício proposto na aula 2, Validação Cruzada e exemplo de uso;
 - Aula 3.2: Validação Cruzada, ajustes de hiperparâmetros e exemplos;
+- Aula 4.1: KNN, ferramentas especiais e KNN para regressão;
+- Aula 4.2: Resolução de exemplo para aplicação e demonstração do KNN;
+- Aula 5.1: Viés-Variância, Ferramentas especiais e KNN para regressão;
+- Aula 5.2: Resolução de exemplo e anotações do professor;
