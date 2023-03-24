@@ -17,3 +17,5 @@ Os conteúdos abordados nas **aulas** são:
 - Aula 4.2: Resolução de exemplo para aplicação e demonstração do KNN;
 - Aula 5.1: Viés-Variância, Ferramentas especiais e KNN para regressão;
 - Aula 5.2: Resolução de exemplo e anotações do professor;
+- Aula 6.1: Árvore de decisão, o que é, como funciona, classificação e regressão;
+- Aula 6.2: Conteúdo da aula 6.1 em pdf;
