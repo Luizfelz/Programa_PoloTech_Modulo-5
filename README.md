@@ -4,7 +4,7 @@ Neste repositório está contido o material apresentado em aula, assim como toda
 
 O conteúdo da pasta **datasets** é referente aos arquivos de datasets passados pelo professor durante as aulas e que foram usados em aulas específicas e exercícios.
 
-O conteúdo da pasta **projeto_final** é referente aos arquivos (datasets, artigo, etc) do projeto final requisitado pelo professor. Os arquivos "_cortez2009.pdf_" e "_wine5.pdf_" são artigos baseados no dataset escolhido para a realização do projeto final. O arquivo _winequality.names_ contém informações referentes aos datasets e ao artigo criado a partir dele.
+O conteúdo da pasta **projeto_final** é referente aos arquivos (datasets, artigo, etc) do projeto final requisitado pelo professor. Os arquivos "_cortez2009.pdf_" e "_wine5.pdf_" são artigos baseados no dataset escolhido para a realização do projeto final. O arquivo _winequality.names_ contém informações referentes aos datasets e ao artigo criado a partir dele. O arquivo "_apresentação.pptx_" contém a apresentação do passo a passo para obtenção do modelo final criado no projeto final. Por fim, o arquivo "_inserir-nome-aqui.ipynb_" é o arquivo contendo todos os algoritmos e testes feitos para realização do projeto final e, portanto, para obtenção do modelo final desenvolvido pelo grupo.
 
 Os conteúdos abordados nas **aulas** são:
 
@@ -20,3 +20,4 @@ Os conteúdos abordados nas **aulas** são:
 - Aula 6.1: Árvore de decisão, o que é, como funciona, classificação e regressão;
 - Aula 6.2: Conteúdo da aula 6.1 em pdf;
 - Aula 7: Métodos de ensemble, Bagging & Random Forest, Boosting & AdaBoost;
+- Aula 8: Random Search e revisão de GridSearch.
