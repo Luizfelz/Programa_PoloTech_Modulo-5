@@ -4,14 +4,6 @@ Neste repositório está contido o material apresentado em aula, assim como toda
 
 O conteúdo da pasta **datasets** é referente aos arquivos de datasets passados pelo professor durante as aulas e que foram usados em aulas específicas e exercícios.
 
-O conteúdo da pasta **projeto_final** é referente aos arquivos (datasets, artigo, etc) do projeto final requisitado pelo professor. Dentro desta pasta:
-
-- Os arquivos "_cortez2009.pdf_" e "_wine5.pdf_" são artigos baseados no dataset escolhido para a realização do projeto final.
-- O arquivo _winequality.names_ contém informações referentes aos datasets e ao artigo criado a partir dele.
-- O arquivo "_apresentacao_linkedin.pdf_" contém a apresentação do projeto final destinada à publicação no linkedin.
-- O arquivo "_apresentacao_final.pdf_" contém a apresentação do passo a passo para obtenção do modelo final criado no projeto final.
-- O arquivo "_Projeto_Final_PoloTech_Modulo-5.ipynb_" é o arquivo contendo todos os algoritmos e testes feitos para realização do projeto final e, portanto, para obtenção do modelo final desenvolvido pelo grupo.
-
 Os conteúdos abordados nas **aulas** são:
 
 - Aula 0: Introdução ao Módulo 5, Data Science, Inteligência Artificial, Machine Learning e Deep Learning;
