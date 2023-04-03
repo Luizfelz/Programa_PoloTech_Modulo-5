@@ -19,3 +19,5 @@ Os conteúdos abordados nas **aulas** são:
 - Aula 6.2: Conteúdo da aula 6.1 em pdf;
 - Aula 7: Métodos de ensemble, Bagging & Random Forest, Boosting & AdaBoost;
 - Aula 8: Random Search e revisão de GridSearch.
+
+A conclusão do módulo 5 se deu através da defesa de um projeto, realizado em grupo. O repositório contendo os arquivos do projeto pode ser acessado [aqui](https://github.com/Luizfelz/Projeto_Final_Mod.05_PoloTech).
